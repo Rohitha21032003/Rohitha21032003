@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Somuri Rohitha
 * I am currently pursuing my B.Tech in Electronics and Communication Engineering.
-* I am currently learning and exploring different machine learning concepts.
+* I am currently learning and exploring different machine learning concepts and full stack web development.
 
 
 <!--
