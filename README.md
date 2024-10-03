@@ -1,5 +1,6 @@
 ## Hi there 👋, I'm Somuri Rohitha
-* I am currently pursuing my B.Tech in Electronics and Communication Engineering.
+* I am currently pursing Master of Science on Computer Science from Arizona State University.
+* I completed B.Tech in Electronics and Communication Engineering from VNIT, Nagpur.
 * I am currently learning and exploring different machine learning concepts and full stack web development.
 
 
